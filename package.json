@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "scripts": {
     "start": "nodemon index.js",
@@ -17,6 +17,7 @@
     "mongoose": "^8.0.2",
     "nanoid": "^5.0.3",
     "nodemon": "^3.0.1",
-    "shortid": "^2.2.16"
+    "shortid": "^2.2.16",
+    "vercel": "^32.5.6"
   }
 }
